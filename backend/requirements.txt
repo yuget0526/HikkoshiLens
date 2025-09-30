@@ -1,0 +1,13 @@
+requests
+beautifulsoup4 
+fastapi
+uvicorn[standard] 
+pandas
+tables
+h5py 
+thefuzz
+uvicorn[standard]
+mojimoji
+python-dotenv
+httpx
+geopandas
